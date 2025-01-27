@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B4uti4github
 - 👀 I’m interested in languages ​​like c / c++ or rust, I like to make kind of recreations of low-level things, I am a fan of low-level things well
-- 🌱 I’m currently learning gamedev
+- 🌱 I’m currently learning OS developemt
 - 💞️ I’m looking to collaborate on new open sources alternatives
 - 📫 How to reach me - bad english, i dont understand, sorry
 - 😄 Pronouns: him / her
